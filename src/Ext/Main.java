@@ -1,4 +1,4 @@
-package HW6;
+package Ext;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package HW6;
+package Ext;
 
 public class Pencil extends Pen{
     public Pencil() {

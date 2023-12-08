@@ -1,4 +1,4 @@
-package HW6;
+package Ext;
 
 public abstract class Pen {
     private String brand;
