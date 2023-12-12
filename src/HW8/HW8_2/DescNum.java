@@ -4,10 +4,10 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class AscNum{
+public class DescNum {
     public static void main(String[] args) {
         List<Train> list = new ArrayList<>();
-        
+
         list.add(new Train(202, "普悠瑪", "樹林", "花蓮", 400));
         list.add(new Train(1254, "區間", "屏東", "基隆", 700));
         list.add(new Train(118, "自強", "高雄", "台北", 500));
